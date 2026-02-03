@@ -16,8 +16,8 @@ This part explains why and how we use machine learning for property prediction o
 
 ## 2. Projects for further exploration
 This part contains two projects which further explore graph neural networks for chemistry. These projects are designed to take ~3 hours to complete. They are:
-4. Project A: Polymer Representations with Chemprop: this explores the impact of using different SMILES strings as inputs to Chemprop.
-4. Project B: Structure-base Splitting with Chemprop: this explore the impact of chemistry-based splitting of training and validation data.
+- 4a. Project A: Polymer Representations with Chemprop: this explores the impact of using different SMILES strings as inputs to Chemprop.
+- 4b. Project B: Structure-base Splitting with Chemprop: this explore the impact of chemistry-based splitting of training and validation data.
 
 |  | Description |
 |:--------|-------------|
