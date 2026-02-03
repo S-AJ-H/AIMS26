@@ -3,14 +3,19 @@
 In this workshop, we explore how we can predict the properties of organic materials. It uses a published dataset containing density functional theory calculations of electron affinitty and ionisation potential for ~6000 polymer photocatalysts. The workshop focuses on how chemists can represent organic materials in a machine-learning-friendly way. It has two parts:
 
 ## 1. Lecture and Interactive Workshop
-This part explains why and how we use machine learning for property prediction of organic materials. It compares two models: 
-A. A "fixed representations" approach, in which deterministic Morgan fingerprints are used to represent polymer structures
-B. A deep learning approach utilising graph neural networks and the Chemprop package to learn hidden representations of polymer structures.
+This part explains why and how we use machine learning for property prediction of organic materials. It compares two approaches over three notebooks: 
+1. The "fixed representations" approach, in which deterministic Morgan fingerprints are used to represent polymer structures.
+2. A notebook visualising message passing with the graph neural network package Chemprop.
+3. Utilising graph neural networks in Chemprop to learn hidden representations of polymer structures. 
+
+| Open in Colab | Description |
+|:--------|:-------------:|
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/S-AJ-H/AIMS26/blob/main/1_Fixed_representations.ipynb) | 1. Fixed Representations |
 
 ## 2. Projects for further exploration
 This part contains two projects which further explore graph neural networks for chemistry. They are:
-A. Polymer Representations with Chemprop: this explores the impact of using different SMILES strings as inputs to Chemprop.
-B. Structure-base Splitting with Chemprop: this explore the impact of chemistry-based splitting of training and validation data.
+4a. Project A: Polymer Representations with Chemprop: this explores the impact of using different SMILES strings as inputs to Chemprop.
+4b. Project B: Structure-base Splitting with Chemprop: this explore the impact of chemistry-based splitting of training and validation data.
 
 ## Resources:
 
