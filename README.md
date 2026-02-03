@@ -1,6 +1,6 @@
 # AIMS26: Graph Neural Networks for designing organic materials
 
-In this workshop, we explore how we can predict the properties of organic materials. It uses a published dataset containing density functional theory calculations of electron affinitty and ionisation potential for ~6000 polymer photocatalysts. The workshop focuses on how chemists can represent organic materials in a machine-learning-friendly way. It has two parts:
+In this workshop, we explore how we can predict the properties of organic materials. It uses a published dataset containing density functional theory calculations of electron affinity and ionisation potential for ~6000 polymer photocatalysts. The workshop focuses on how chemists can represent organic materials in a machine-learning-friendly way. It has two parts:
 
 ## 1. Lecture and Interactive Workshop
 This part explains why and how we use machine learning for property prediction of organic materials. It compares two approaches over three notebooks: 
