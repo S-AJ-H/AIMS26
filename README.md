@@ -22,7 +22,7 @@ This part contains two projects which further explore graph neural networks for 
 |  | Description |
 |:--------|-------------|
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/S-AJ-H/AIMS26/blob/main/4a_Project_A_Polymer_Representations_with_Chemprop.ipynb) | 4a. Project A: Polymer Representations with Chemprop |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/S-AJ-H/AIMS26/blob/main/4b_Project_B_Structure_based_splitting_with_Chemprop.ipynb) | 4b. Project B: Structure-based Splitting with Chemrop |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/S-AJ-H/AIMS26/blob/main/4b_Project_B_Structure_based_splitting_with_Chemprop.ipynb) | 4b. Project B: Structure-based Splitting with Chemprop |
 
 ## Resources:
 
